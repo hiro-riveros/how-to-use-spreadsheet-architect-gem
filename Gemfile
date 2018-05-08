@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+
+gem 'spreadsheet_architect'
+
 gem 'rails', '5.0.0.1'
 gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.0'
@@ -39,7 +42,6 @@ gem 'elasticsearch-rails'
 gem 'searchkick'
 gem 'pry'
 gem 'pry-rails'
-gem 'paperclip', '5.1'
 gem 'aws-sdk', '~> 2.3.0'
 gem 'bootstrap', '4.0.0.alpha3.1'
 gem 'rolify'
